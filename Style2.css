@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    scroll-behavior: smooth;
+    background-color: black; 
+}
+
+.font-family {
+    display: inline-block;
+    background-color: white;
+    margin: 30px;
+    padding: 10px;
+}
+
+.font-family p{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: small;
+}
+
+.Tahoma{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0;
+}
+
+.Arial {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 400px;
+}
+
+
+.Verdana {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Arial2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 400px;
+}
+.Arial2 h2{
+    font-weight: 600;
+
+}
+.Verdana-btn button{
+    background-color: rgb(21, 104, 21);
+    color: white;
+    border: none;
+    font-size: x-small;
+    padding: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+}
